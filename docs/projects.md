@@ -6,4 +6,4 @@ The screenshot below is a tic-tac-toe board I created to be pushed onto a cloud 
 
 The project used Heroku for its cloud provider, and can still be viewed using the following [link] (https://vmosley-tictactoe.herokuapp.com).
 
-![Add alternate text for image](./assets/rosemary.png)
+![Add alternate text for image](./assets/image.png)
