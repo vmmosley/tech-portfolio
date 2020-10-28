@@ -2,13 +2,8 @@
 id: projects
 title: Projects
 ---
+The screenshot below is a tic-tac-toe board I created to be pushed onto a cloud service. The board was built using Python and Django for the framework necessary to make it clickable and run without any major hiccups. It also required knowledge in HTML and CSS in order bring the board effects and colors to light.
 
-Embed any notable projects in this page.
-
-For example, my favorite project would be linked and I can even embed
-a screenshot or GIF to show it.
-
-You can list [links](https://www.hashicorp.com/resources/test-driven-development-tdd-for-infrastructure)
-or even embed images with the following Markdown:
+The project used Heroku for its cloud provider, and can still be viewed using the following [link] (https://vmosley-tictactoe.herokuapp.com).
 
 ![Add alternate text for image](./assets/rosemary.png)
